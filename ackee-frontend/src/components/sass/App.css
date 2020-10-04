@@ -1,0 +1,18 @@
+.footer {
+  margin-top: 1000px;
+}
+
+.footer footer {
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#a8edea), to(#fed6e3));
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=App.css.map */
